@@ -1,5 +1,3 @@
-# DALL E Clone
-
 # DALL-E Clone
 
 This project is a clone of OpenAI's DALL-E application, enabling users to generate images from textual descriptions. Built with a modern tech stack, it offers a seamless experience for AI-driven image creation and management.
