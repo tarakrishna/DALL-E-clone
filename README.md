@@ -26,7 +26,7 @@ This project is a clone of OpenAI's DALL-E application, enabling users to genera
 
 ## Tech Stack
 
-- **Frontend:** Vite, React, Tailwind CSS
+- **Frontend:** React, Tailwind CSS
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
 - **Cloud Storage:** Cloudinary
