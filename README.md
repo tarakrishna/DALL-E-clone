@@ -18,7 +18,7 @@ This project is a clone of OpenAI's DALL-E application, enabling users to genera
 
 - Generate images from textual descriptions using OpenAI's API.
 - Store and manage images with Cloudinary.
-- Responsive frontend built with Vite and React.
+- Responsive frontend built with React.
 - Robust backend using Express and Node.js.
 - Database management with MongoDB.
 
